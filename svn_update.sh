@@ -3,8 +3,8 @@
 DOCUMENT_ROOT='{your project document root}';
 
 SVN_SERVER='{svn://.....}';
-SVN_USERNAME='';
-SVN_PASSWORD='';
+SVN_USERNAME='{username}';
+SVN_PASSWORD='{pass}';
 
 echo "Changing directories to $DOCUMENT_ROOT...";
 cd $DOCUMENT_ROOT;
